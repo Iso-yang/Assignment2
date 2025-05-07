@@ -39,7 +39,7 @@ git commit -m"create a folder"
 git push origin testbranch
 
 # Step 5: Make conflicting change on main
-motify in testbranch
+new motify in testbranch
 
 
 # Step 6: Merge and resolve conflict
