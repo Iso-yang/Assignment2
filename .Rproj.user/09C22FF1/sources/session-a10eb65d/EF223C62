@@ -3,7 +3,7 @@
     "path": "~/Documents/ETC5513/Assignment2/example.qmd",
     "project_path": "example.qmd",
     "type": "quarto_markdown",
-    "hash": "2782350177",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1746587312793.0,
@@ -22,11 +22,11 @@
         "rmdVisualModeLocation": "634:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1746591862,
+    "lastKnownWriteTime": 1746597672,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1746591862004,
+    "last_content_update": 1746597672,
     "read_only": false,
     "read_only_alternatives": []
 }
