@@ -26,10 +26,17 @@ git remote add origin git@github.com:Iso-yang/Assignment2.git: Add a remote repo
 git push -u origin main: Push the local main branch code to the remote repository origin.
 
 # Step 3: Create a new branch and modify example.qmd.
-git checkout -b testbranch: 
+git checkout -b testbranch: Create a new branch called testbranch . 
+git add example.qmd
+git commit -m "Modified qmd in testbranch"
+git push origin testbranch: Pushed the testbranch branch to the remote repository.
 
 
-
+# Step 4: Add data folder and amend commit
+Create a folder called data, and add the data from Assignment 1 to that folder.
+git add .
+git commit -m"create a folder"
+git push origin testbranch
 
 
 
