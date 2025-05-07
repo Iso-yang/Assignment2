@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 .DS_Store
+=======
+.Rproj.user/
+>>>>>>> testbranch
