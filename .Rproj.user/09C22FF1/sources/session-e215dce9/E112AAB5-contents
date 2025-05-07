@@ -17,3 +17,7 @@ This guide demonstrates my understanding of Git, GitHub, and the command-line in
 
 
 # Step 2: Initialise the Git repository and push to GitHub
+
+Initialize a Git repository in the current folder. Create a .git/ directory, and Git starts tracking files and version history that can be knitted into a HTML file.
+
+![HTML file.jpg]('/Users/isoyang/Documents/ETC5513/Assignment2/HTML file.jpg')

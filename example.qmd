@@ -4,23 +4,19 @@ format: html
 editor: visual
 ---
 
-## Quarto
+# Introduction
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+This guide demonstrates my understanding of Git, GitHub, and the command-line interface in the context of reproducible research using RStudio and Quarto.
 
-## Running Code
+------------------------------------------------------------------------
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+# Step 1: Create a new RStudio Project and a Quarto file
 
-```{r}
-1 + 1
-```
+-   I created a new RStudio project named `Assignment2`.
+-   Inside the project, I created a file `example.qmd`.
 
-You can add options to executable code like this
+# Step 2: Initialise the Git repository and push to GitHub
 
-```{r}
-#| echo: false
-2 * 2
-```
+Initialize a Git repository in the current folder. Create a .git/ directory, and Git starts tracking files and version history that can be knitted into a HTML file.
 
-The `echo: false` option disables the printing of code (only output is displayed).
+![](images/HTML_file.jpg)
