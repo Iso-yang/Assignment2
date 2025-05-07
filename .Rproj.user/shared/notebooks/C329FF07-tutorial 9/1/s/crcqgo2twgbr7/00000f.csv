@@ -1,0 +1,7 @@
+"0","set.seed(1141)"
+"0","df1_split <- initial_split(df1, strata=cl)"
+"0","df2_split <- initial_split(df2, strata=cl)"
+"0","df1_tr <- training(df1_split)"
+"0","df1_ts <- testing(df1_split)"
+"0","df2_tr <- training(df2_split)"
+"0","df2_ts <- testing(df2_split)"

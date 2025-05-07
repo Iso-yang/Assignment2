@@ -1,0 +1,3 @@
+"0","df1_pts <- df1_ts |>"
+"0","  mutate(pcl = predict(svm_fit1, df1_ts)$.pred_class)"
+"0","accuracy(df1_pts, cl, pcl)"

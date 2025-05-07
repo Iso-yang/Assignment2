@@ -1,0 +1,4 @@
+"0","#| fig-width: 4"
+"0","#| fig-height: 4"
+"0","#| out-width: 50%"
+"0","s1 + geom_abline(intercept=svm_fit1$fit@b, slope = -sv_betas[1]/sv_betas[2])"
