@@ -38,8 +38,26 @@ git add .
 git commit -m"create a folder"
 git push origin testbranch
 
+# Step 5: Make conflicting change on main
 
 
+
+# Step 6: Merge and resolve conflict
+
+
+# Step 7: Tag the commit
+
+
+
+
+# Step 8: Delete testbranch
+
+
+
+# Step 9: Show commit log
+
+
+# Step 10: Undo commit but keep changes
 
 
 
