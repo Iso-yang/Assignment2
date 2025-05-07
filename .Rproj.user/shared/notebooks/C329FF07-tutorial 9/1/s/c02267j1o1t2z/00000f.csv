@@ -1,2 +1,0 @@
-"0","sv_betas <- apply(svm_fit1$fit@coef*"
-"0","                    df1_tr[svm_fit1$fit@SVindex,-3], 2, sum)"
